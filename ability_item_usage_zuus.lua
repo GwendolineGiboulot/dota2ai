@@ -8,25 +8,25 @@ end
 
 local AbilityToLevelUp=
 {
+	abilities[1],
 	abilities[2],
-	abilities[3],
 	abilities[2],
 	abilities[3],
 	abilities[2],
 	abilities[4],
 	abilities[2],
-	abilities[3],
-	abilities[3],
+	abilities[1],
+	abilities[1],
 	abilities[5],
 	abilities[1],
 	abilities[4],
-	abilities[1],
-	abilities[1],
+	abilities[3],
+	abilities[3],
 	abilities[7],
-	abilities[1],
+	abilities[3],
 	abilities[4],
-	abilities[10],
-	abilities[12],
+	abilities[9],
+	abilities[11],
 }
 
 

@@ -12,7 +12,7 @@ function Think()
 		SelectHero( 3, "npc_dota_hero_skeleton_king" );
 		SelectHero( 4, "npc_dota_hero_necrolyte" );
 		SelectHero( 5, "npc_dota_hero_crystal_maiden" );
-		SelectHero( 6, "npc_dota_hero_tidehunter" );
+		SelectHero( 6, "npc_dota_hero_zuus" );
 	elseif ( GetTeam() == TEAM_DIRE )
 	then
 		print( "selecting dire" );
@@ -20,7 +20,7 @@ function Think()
 		SelectHero( 8, "npc_dota_hero_skeleton_king" );
 		SelectHero( 9, "npc_dota_hero_necrolyte" );
 		SelectHero( 10, "npc_dota_hero_crystal_maiden" );
-		SelectHero( 11, "npc_dota_hero_tidehunter" );
+		SelectHero( 11, "npc_dota_hero_zuus" );
 	end
 
 end

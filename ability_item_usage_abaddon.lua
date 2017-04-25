@@ -1,3 +1,4 @@
+
 local npcBot = GetBot();
 
 local abilities = {};
@@ -10,14 +11,14 @@ local AbilityToLevelUp=
 {
 	abilities[2],
 	abilities[3],
-	abilities[2],
 	abilities[3],
 	abilities[2],
+	abilities[3],
 	abilities[4],
+	abilities[3],
 	abilities[2],
-	abilities[3],
-	abilities[3],
-	abilities[5],
+	abilities[2],
+	abilities[6],
 	abilities[1],
 	abilities[4],
 	abilities[1],
@@ -25,8 +26,8 @@ local AbilityToLevelUp=
 	abilities[7],
 	abilities[1],
 	abilities[4],
-	abilities[10],
-	abilities[12],
+	abilities[9],
+	abilities[11],
 }
 
 
