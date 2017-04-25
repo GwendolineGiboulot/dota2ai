@@ -43,13 +43,3 @@ function AbilityLevelUpThink()
 
 end
 
-
-
-
-
-
-function AbilityUsageThink()
-
-
-
-end

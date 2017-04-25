@@ -46,10 +46,3 @@ end
 
 
 
-
-
-function AbilityUsageThink()
-
-
-
-end

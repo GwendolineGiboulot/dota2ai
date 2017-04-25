@@ -13,20 +13,20 @@ local AbilityToLevelUp=
 	abilities[2],
 	abilities[3],
 	abilities[2],
-	abilities[4],
+	abilities[5],
 	abilities[2],
 	abilities[1],
 	abilities[1],
-	abilities[5],
+	abilities[6],
 	abilities[1],
-	abilities[4],
+	abilities[5],
 	abilities[3],
 	abilities[3],
-	abilities[7],
+	abilities[8],
 	abilities[3],
-	abilities[4],
-	abilities[9],
-	abilities[11],
+	abilities[5],
+	abilities[10],
+	abilities[12],
 }
 
 
@@ -43,13 +43,3 @@ function AbilityLevelUpThink()
 
 end
 
-
-
-
-
-
-function AbilityUsageThink()
-
-
-
-end

@@ -1,4 +1,3 @@
-
 local npcBot = GetBot();
 
 local abilities = {};
